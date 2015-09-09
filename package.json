@@ -1,0 +1,16 @@
+{
+  "name": "simu-os",
+  "version": "1.0.0",
+  "description": "Simulate an Operating System UI",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandre Buruk",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-compass": "^2.1.0",
+    "gulp-plumber": "^1.0.1"
+  }
+}
